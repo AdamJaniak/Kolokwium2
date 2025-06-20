@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poprawa2", "Poprawa2\Poprawa2.csproj", "{18EAF217-C174-496D-ACCD-D5EE9E222FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18EAF217-C174-496D-ACCD-D5EE9E222FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EAF217-C174-496D-ACCD-D5EE9E222FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EAF217-C174-496D-ACCD-D5EE9E222FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EAF217-C174-496D-ACCD-D5EE9E222FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
